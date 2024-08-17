@@ -285,7 +285,8 @@ mobs to remove themselves. We can do this with the "group" feature.
 
 In the ``Mob`` scene, select the root node and click the "Node" tab next to the
 Inspector (the same place where you find the node's signals). Next to "Signals",
-click "Groups" and you can type a new group name and click "Add".
+click "Groups" and you can create a new group by clicking on the "+" button.
+A new window will pop up, enter "mobs" in name field and click ok.
 
 .. image:: img/group_tab.webp
 
